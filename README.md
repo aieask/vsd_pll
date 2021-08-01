@@ -1,5 +1,5 @@
 # Phase-Locked Loop IC design using Open-Source PDK
-<img src = "PLL-Workshop-Banner_efabless.png">
+<img src = "pll_workshop.png">
 
 This repository reflects the work done in the PHASE-LOCKED LOOP (PLL) IC Design using Open-Source PDK workshop, offered by VLSI System Design Corp. Pvt. Ltd in collaboration with Lakshmi Sathi. It is a 2-day workshop that aims to give familiarity with open source tools, PDKs, Analog Design, and TapeOut Process under efabless.com. Furthermore, if you are a beginner, and visiting this GitHub repository, you can follow these steps to Design and Layout your own PLL IC.
 
