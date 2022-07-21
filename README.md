@@ -250,6 +250,9 @@ Basic Steps Overview:
 - [An Improved Performance Ring VCO: Analysis and Design](https://www.researchgate.net/publication/330244405_An_Improved_Performance_Ring_VCO_Analysis_and_Design)
 - [A Novel Phase Frequency Detector for a High-Frequency PLL Design](https://www.sciencedirect.com/science/article/pii/S187770581301624X)
 - [A pA-leakage CMOS charge pump for low-supply PLLs](https://ieeexplore.ieee.org/document/5548821)
+- [A simple and high performance charge pump based on the self-cascode transistor](https://dl.acm.org/doi/abs/10.1007/s10470-019-01478-y)
+- [Gain-Boosting Charge Pump for Current Matching in Phase-Locked Loop](https://ieeexplore.ieee.org/document/1715569)
+- [Comparative Analysis of High Speed FBB TSPC and E-TSPC Frequency Divider at 32 nm CMOS process](http://www.ijtrd.com/papers/IJTRD5427.pdf)
 
 ## Acknowledgements
 - [Lakshmi S](https://github.com/lakshmi-sathi), MS in ECE, Georgia Tech
